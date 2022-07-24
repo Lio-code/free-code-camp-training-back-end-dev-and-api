@@ -15,5 +15,6 @@
 	"author": "Lionel",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "training", "nodejs"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.2.0"
 }
